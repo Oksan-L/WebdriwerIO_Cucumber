@@ -1,0 +1,2 @@
+Files with steps should be like *.steps.js. 
+(require: ['./features/step-definitions/*.steps.js'])
